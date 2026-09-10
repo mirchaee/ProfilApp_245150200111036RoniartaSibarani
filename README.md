@@ -20,12 +20,11 @@ File ini merupakan tampilan utama aplikasi yang dibangun secara deklaratif mengg
 
 ## Tangkapan Layar (Screenshot)
 
+## Tangkapan Layar (Screenshot)
+
 | Portrait | Landscape |
 | :---: | :---: |
-|  <img width="455" height="867" alt="screenshot_portrait" src="https://github.com/user-attachments/assets/090c85e8-b636-42d8-9bdb-86c2195d2079" />
-  | <img width="470" height="233" alt="screenshot_landscape" src="https://github.com/user-attachments/assets/ad485b04-1f31-4b80-8605-cb5db262d0a2" />
- |
- 
+| ![screenshot_portrait](https://github.com/user-attachments/assets/090c85e8-b636-42d8-9bdb-86c2195d2079) | ![screenshot_landscape](https://github.com/user-attachments/assets/ad485b04-1f31-4b80-8605-cb5db262d0a2) |
 ---
 
 ## Keuntungan Compose Dibandingkan XML Layout
